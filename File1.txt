@@ -2,7 +2,7 @@ file 1
 
 Changes content
 
-New changes content
+Modified changes content
 
 
 added new content remotely
